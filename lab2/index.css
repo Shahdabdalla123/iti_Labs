@@ -1,0 +1,26 @@
+.red
+{
+    color: red;
+    margin: 4px;
+}
+.btn
+{
+    background-color: rgba(17, 0, 255, 0.364);
+    padding: 6px;
+    margin: 8px;
+   
+}
+
+  
+.address-field {
+    width: 300px;
+    height: 150px;
+    resize: vertical;
+    overflow-y: scroll;
+  }
+  body
+  {
+    background-color: rgba(146, 196, 239, 0.723);
+  }
+
+
